@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a151aae416b497c9eaea8aa5ac1c555, type: 3}
+  m_Name: Theme_General
+  m_EditorClassIdentifier: 
+  m_themeName: General
+  SerializedGuid: cc9818431cfea541983fcdf722579e0a
+  m_activeVariant:
+    m_variantName: U12
+    SerializedGuid: 19dc6c398e1e284e94daa4f399ac701b
+    Colors:
+    - m_color: {r: 0, g: 0.26666668, b: 0.08627451, a: 1}
+      SerializedGuid: e5e87c6d3bdb934a9b773ef2e15c534c
+    - m_color: {r: 0, g: 0.4745098, b: 0.22745098, a: 1}
+      SerializedGuid: 5a1791b56d9ea34c89f24772c5378e98
+    - m_color: {r: 0, g: 0.35686275, b: 0.6666667, a: 1}
+      SerializedGuid: 6266f0e90983c94b82a1b5a137c09a8b
+    - m_color: {r: 0, g: 0.58431375, b: 0.85490197, a: 1}
+      SerializedGuid: cec811f3b11d654aa27af4e70276c520
+    - m_color: {r: 0.827451, g: 0.8392157, b: 0.91764706, a: 1}
+      SerializedGuid: 91d06d0fe8b6ea4ba9b02c547cdaf8b3
+    - m_color: {r: 0.92941177, g: 0.101960786, b: 0.22352941, a: 1}
+      SerializedGuid: 0078fa8847cc874598710a50986f7386
+    - m_color: {r: 1, g: 1, b: 0, a: 1}
+      SerializedGuid: 108a2785e5707f4080dfa68abe5e8a2f
+    - m_color: {r: 0.96862745, g: 0.5803922, b: 0.11372549, a: 1}
+      SerializedGuid: b7897b17b8edcb46b6e02673885ac30b
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 4d2718d2de1393469f9e50c39c86ac29
+    - m_color: {r: 0, g: 0.26666668, b: 0.08627451, a: 1}
+      SerializedGuid: ef4e7fe7de3e1f4489f4b48c62d64308
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 802c445aa20b8e4f9d6d87dca2295e0d
+    Sprites:
+    - m_sprite: {fileID: 21300000, guid: fef0deab9a74e584ea5c4f86f4f328ae, type: 3}
+      SerializedGuid: d45a748093f2ac46b11229a232c11826
+    - m_sprite: {fileID: 21300000, guid: 3c46e933e6fc9cf44b6aa57a4529d198, type: 3}
+      SerializedGuid: dced5d132e71a2439b47f00d3625cee8
+    - m_sprite: {fileID: 21300000, guid: e120d72c9af3abc4f92410208878cdf3, type: 3}
+      SerializedGuid: 3bb70fb73ffd494398b00a523ad401c7
+    - m_sprite: {fileID: 21300000, guid: 704e7b26e2a379d4b9b8be108e83681d, type: 3}
+      SerializedGuid: 203b5a108b728547b9a427f2a2102cbf
+    - m_sprite: {fileID: 21300000, guid: e68d8e06acfb95f4f894800e74eba0ff, type: 3}
+      SerializedGuid: 0863fa61b9d5b342a8ec9a5fe544b76d
+    - m_sprite: {fileID: 21300000, guid: 1790eb949487c214593657c813c53220, type: 3}
+      SerializedGuid: d71959b79efdaf48a6d4ac5f4ff4593f
+    Textures: []
+    Fonts: []
+    FontAssets: []
+  ColorLabels:
+  - m_label: Primary
+    SerializedGuid: 8283f2f95587dd4a84f6dd137280850b
+  - m_label: Secondary
+    SerializedGuid: e0d8502a126e1f4d96a926c4976d20e3
+  - m_label: Accent 1
+    SerializedGuid: bc2552e8e05d8943ae40c48608eadf9f
+  - m_label: Accent 2
+    SerializedGuid: 95373f679393dd4f901c4e1ef4042719
+  - m_label: Text
+    SerializedGuid: 22609bb48c08144881741c46c70e733e
+  - m_label: Disabled
+    SerializedGuid: dca77435db1eed4fbdc86defaed608d9
+  SpriteLabels:
+  - m_label: Logo
+    SerializedGuid: d45a748093f2ac46b11229a232c11826
+  - m_label: Background
+    SerializedGuid: dced5d132e71a2439b47f00d3625cee8
+  - m_label: PlayerCardRound
+    SerializedGuid: 3bb70fb73ffd494398b00a523ad401c7
+  - m_label: PlayerCardMVP
+    SerializedGuid: 203b5a108b728547b9a427f2a2102cbf
+  - m_label: PlayerCardCorner
+    SerializedGuid: 0863fa61b9d5b342a8ec9a5fe544b76d
+  - m_label: PlayerCardGameplay
+    SerializedGuid: d71959b79efdaf48a6d4ac5f4ff4593f
+  TextureLabels: []
+  FontLabels: []
+  FontAssetLabels: []
+  VariantsNames:
+  - Default
+  Variants:
+  - m_variantName: Default
+    SerializedGuid: dc72f6cd380bb6499c4bc45aafdc56fd
+    Colors: []
+    Sprites:
+    - m_sprite: {fileID: 0}
+      SerializedGuid: d45a748093f2ac46b11229a232c11826
+    - m_sprite: {fileID: 0}
+      SerializedGuid: dced5d132e71a2439b47f00d3625cee8
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 3bb70fb73ffd494398b00a523ad401c7
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 203b5a108b728547b9a427f2a2102cbf
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 0863fa61b9d5b342a8ec9a5fe544b76d
+    - m_sprite: {fileID: 0}
+      SerializedGuid: d71959b79efdaf48a6d4ac5f4ff4593f
+    Textures: []
+    Fonts: []
+    FontAssets: []
