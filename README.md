@@ -6,7 +6,7 @@ Todo sin salir de tu cuenta de Decaf.
 
 <p align="center">
     <br>
-    <img src="img/sanwis.png" width="500"/>
+    <img src="xxxx" width="500"/>
     <br>
 <p>
 
