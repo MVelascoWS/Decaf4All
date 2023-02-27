@@ -5,10 +5,8 @@ Con Decaf4All, por medio del mismo onboarding de Decaf accederas al dinero de tu
 Todo sin salir de tu cuenta de Decaf.
 
 <p align="center">
-    <br>
-    <img src="xxxx" width="500"/>
-    <br>
-<p>
+<img src="/FrontEnd/decaf4all/public/logo.jpg" width="256"/>
+<p>    
 
 ## Problema
 Actualmente, como micro-negocio aceptar pagos en crypto representa con lleva más dificultades que beneficios. 
