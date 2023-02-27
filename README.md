@@ -20,7 +20,7 @@ Así el negocio no percibe una demanda de este tipo de pago.
 | ¿Qué? | Link |
 |---|---|
 | UX | https://www.figma.com/proto/lK0oLlWfeHA3unhCLYdVLd/Etherfuse2023?scaling=contain&page-id=0%3A1&starting-point-node-id=227%3A983 |
-| Youtube | Pendiente |
+| Youtube | https://youtu.be/HBfXojk6RTY |
 | Linktr.ee | https://linktr.ee/decaf4all |
 
 
